@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Simple ruby client for the Clash of Clans API"
   s.authors     = ["Brandon Harris"]
   s.email       = 'brandon@brandon-harris.com'
-  s.files       = ["lib/barcker.rb"]
+  s.files       = ["lib/barcher.rb"]
   s.homepage    = 'https://github.com/bbwharris/barcher'
   s.license     = 'MIT'
 end

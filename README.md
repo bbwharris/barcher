@@ -28,5 +28,19 @@ Then from a REPL (irb, rails c)
   barcher.leagues
 ```
 
+## Testing
+
+To run all tests you can:
+
+```
+  bundle
+```
+
+then
+
+```
+  rake test
+```
+
 ## Note
 This is just a first pass at getting something working, there are no error checks applied, so undesirable behavior will occur.
